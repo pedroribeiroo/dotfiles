@@ -1,9 +1,6 @@
 # Themes
 * [Dracula PRO](https://draculatheme.com/pro)
 * [Dracula Official](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula)
-* [Night Owl](https://marketplace.visualstudio.com/items?itemName=sdras.night-owl)
-* [GitHub Theme](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme)
-* [Rosé Pine](https://marketplace.visualstudio.com/items?itemName=mvllow.rose-pine)
 
 # Extensions
 * [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
